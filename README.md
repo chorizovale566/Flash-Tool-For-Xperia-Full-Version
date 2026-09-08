@@ -229,4 +229,4 @@ This repository serves as the official landing page for Flash Tool for Xperia. T
 **Get the most recent version of Flash Tool for Xperia today!**
 
 ---
-**Last updated:** 2026-09-08 20:40:39 UTC
+**Last updated:** 2026-09-08 23:09:50 UTC
